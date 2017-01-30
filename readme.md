@@ -1,5 +1,5 @@
 # Sitecore.Support.137891
-&quot;Sitecore.Analytics.DynamicsCrm.Models.CrmContactData&quot; is not marked as serializable
+Marks the type &quot;Sitecore.Analytics.DynamicsCrm.Models.CrmContactData&quot; with Serializable attribute.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.137891/blob/master/LICENSE).  
